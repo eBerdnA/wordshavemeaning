@@ -1,6 +1,6 @@
 baseURL: 'https://example.org/'
 languageCode: 'en-us'
-title: 'Words have (a) meaning'
+title: 'Words with meaning'
 theme: 'blank'
 timeZone: "Europe/Berlin"
 markup:
