@@ -9,7 +9,7 @@ This entry was originally supposed to be titled "Books I read/finished in 2024."
 I started this year with the resolution to read at least 15 minutes every day. Compared to 2023, I changed my metric because last year I set a fixed goal for the number of books to read. However, midway through the year, I realized that this metric led me to unconsciously choose shorter books just to meet my goal.
 I didn’t manage to read for 15 minutes every single day, but there were days when I read for several hours. Overall, I’m very satisfied with my reading year 2024.
 
-## Bücher
+## Books
 
 The language of the title indicates the language (German/English) in which I read a book. Wherever possible, the/an English title can be found in the respective section. Other languages/editions can be found via the corresponding Goodreads link.
 
@@ -226,12 +226,13 @@ engl. title: My Brilliant Friend
 
 ## Blogs/Newsletter
 
-Beide der folgenden Personen?? sind auf Substack. Und ja ich bin mir der Probleme der Plattform sehr wohl bewusst. Der bisherige Inhalt der beiden gibt mir allerdings keinen Anlass, dass sie den problematischen Dingen zustimmen. Ja, sie könnten eine andere Plattform wählen. In meiner Wahrnehmung sind beide aber bisher nicht groß genug, als das sie ohne weiteres den Verlust von Paid-Subscribern verschmerzen könnten. Insbesondere Jared hat erst dieses Jahr angefangen in Vollzeit als Content-Creator zu arbeiten.
+Both of the following authors are on Substack. And yes, I’m well aware of the issues with the platform. However, the content from both so far hasn’t given me any reason to believe they align with the problematic aspects. Yes, they could choose a different platform to explicitly distance themselves from it.  
+In my view, though, neither of them is currently big enough to easily afford losing paid subscribers. Jared, in particular, only started working full-time as a content creator this year.
 
 - [Commonplace Philosophy | Jared Henderson](https://jaredhenderson.substack.com/)
 - [Parker's Ponderings | Parker Settecase](https://parknotes.substack.com/)
 
-## Ausblick 2025
+## Outlook 2025
 
 - Non-Fiction
   - Thema "Menschen"
