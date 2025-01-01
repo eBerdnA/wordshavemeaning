@@ -4,23 +4,14 @@ date: Tue, 29 Dec 2024 12:00:00 +0100
 draft: true
 ---
 
-Eigentlich sollte dieser Eintrag "Books I read/finished in 2024" heißen. Beim Schreiben habe ich dann aber gemerkt, dass ich "Food for thought" besser finde, weil ich so auch Dinge einfließen lassen kann, die keine Bücher sind/waren. Letztendlich dann aber doch einen vergleichbaren Einfluss hatten.
-
 This entry was originally supposed to be titled "Books I read/finished in 2024." However, as I was writing, I realized that I prefer "Food for Thought" because it allows me to include things that aren’t (or weren’t) books but still had a comparable impact in the end.
-
-Gestartet bin ich in dieses Jahr mit dem Vorsatz jeden Tag mindestens 15 Minuten zu lesen. Im Vergleich zu 2023 habe ich meine Metrik verändert, weil ich vergangenes Jahr mir das Ziel gesetzt hatte eine feste Anzahl Bücher zu lesen. Mitte letzten Jahres habe ich dann aber bemerkt, dass diese Metrik dazu führt, dass ich unbewusst kürzere Bücher ausgewählt habe, um mein Ziel zu erreichen.  
-Die 15 Minuten habe ich nicht an jedem Tag geschafft. Allerdings habe ich dafür Tage gehabt, an dem ich mehrere Stunden gelesen. Insgesamt bin ich also sehr zufrieden mit meinem Lese-Jahr 2024.
 
 I started this year with the resolution to read at least 15 minutes every day. Compared to 2023, I changed my metric because last year I set a fixed goal for the number of books to read. However, midway through the year, I realized that this metric led me to unconsciously choose shorter books just to meet my goal.
 I didn’t manage to read for 15 minutes every single day, but there were days when I read for several hours. Overall, I’m very satisfied with my reading year 2024.
 
 ## Bücher
 
-Die Sprache des Titels drückt aus, in welcher Sprache (Deutsch/Englisch) in ein Buch gelesen habe. Soweit möglich, ist der/ein englischer Titel im jeweiligen Abschnitt zu finden. Andere Sprachen/Ausgaben können über den jeweiligen Goodreads-Link gefunden werden.
-
 The language of the title indicates the language (German/English) in which I read a book. Wherever possible, the/an English title can be found in the respective section. Other languages/editions can be found via the corresponding Goodreads link.
-
-Insgesamt habe ich dieses Jahr 24 Bücher ausgelesen. Das sind mehr Bücher als ich jemals zuvor in meinem Leben pro Jahr gelesen habe. Insofern bin ich schon ein wenig stolz darauf, auch wenn die Zahl für sich betrachtet keine große Aussagekraft hat.
 
 This year, I finished reading a total of 24 books. That’s more than I’ve ever read in a single year in my life. So, I’m a little proud of myself, even though the number itself doesn’t hold much significance on its own.
 
