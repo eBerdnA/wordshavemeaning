@@ -1,0 +1,46 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'Words have (a) meaning'
+theme: 'blank'
+timeZone: "Europe/Berlin"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+  - html
+  - rss
+  section:
+  - html
+  - rss
+  taxonomy:
+  - html
+  term:
+  - html
+cascade:
+  - layout: notes-and-posts-single
+    _target:
+      kind: page
+      path: "{/posts/**,/notes/**}"
+  - layout: notes-and-posts-list
+    _target:
+      kind: section
+      path: "{/posts,/posts/**,/notes,/notes/**}"
+params:
+  nofeedSections: ["page", "links"]
+  mainSections: ["posts", "notes"]
+  fullRSS: true
+  repo:
+    url: https://github.com/eberdna/wordshavemeaning
+menus:
+  main:
+    - name: /posts
+      pageRef: /posts
+      weight: 10
+    - name: /notes
+      pageRef: /notes
+      weight: 20
+    - name: /links
+      pageRef: /links
+      weight: 30
