@@ -23,10 +23,14 @@ cascade:
     _target:
       kind: page
       path: "{/posts/**,/notes/**}"
-  - layout: notes-and-posts-list
+  - layout: posts-list
     _target:
       kind: section
-      path: "{/posts,/posts/**,/notes,/notes/**}"
+      path: "{/posts,/posts/**}"
+  - layout: notes-list
+    _target:
+      kind: section
+      path: "{/notes,/notes/**}"
 params:
   nofeedSections: ["page", "links"]
   mainSections: ["posts", "notes"]
