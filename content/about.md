@@ -19,7 +19,7 @@ Previously, I shared content on [andre.bering.in](andre.bering.in). Some of it m
 
 My name is André Bering, and I have been working in the IT industry since 2001. Even earlier I started to tinker with computers, my first computer was actually a Commodore C64.
 
-Over the last 20+ years I have worked in various roles in IT. Starting with system administration, then development, then consulting, I finally ended up in Customer Success. I currently work at JetBrains and help our customers get the most out of TeamCity.
+Over the last 20+ years I have worked in various roles in IT. Starting with system administration, then development, then consulting, I eventually ended up in Solutions Engineering. I currently work at GitHub.
 
 These days, I’m deeply interested in understanding why people do what they do and uncovering their underlying motivations. I believe it’s crucial to start with the “why” rather than jumping straight to the “how.”
 
